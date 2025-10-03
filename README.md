@@ -57,7 +57,7 @@ o	Enables deep-dive analysis for the selected vegetable, displaying monthly pric
 •	Excel – For data storage, cleaning, and preparation
 
 # Dashboard Preview
-![Vegetable Price Insights Dashboard](https://github.com/saurabhgobare/Nashville_Housing_SQL/blob/main/Dashboard/Nashville%20Housing%20Market%20Analysis%20Dashboard.png)
+![Vegetable Price Insights Dashboard](https://github.com/saurabhgobare/Vegetable_Price_Insights_Dashboard/blob/main/Dashboard/Vegetable%20Price%20Insights%20Dashboard.png)
 
 # How to Use
 1.	Open the Power BI dashboard file (Vegetable Market Analysis.pbix).
