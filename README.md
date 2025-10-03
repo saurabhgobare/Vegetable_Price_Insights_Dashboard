@@ -1,7 +1,9 @@
 ## Vegetable Price Insights Dashboard | Vegetable Market Analysis
 
 # Project Overview
-The Vegetable Price Insights Dashboard is a Power BI project designed to track, visualize, and analyze vegetable prices in relation to weather patterns such as temperature and rainfall. It helps users understand price fluctuations, compare prices over time, and monitor trends for different vegetables. This dashboard provides actionable insights for farmers, vendors, and market analysts.
+The Vegetable Price Insights Dashboard is a Power BI project designed to track, visualize, and analyze vegetable prices in relation to weather patterns such as temperature and rainfall. 
+It helps users understand price fluctuations, compare prices over time, and monitor trends for different vegetables.
+This dashboard provides actionable insights for farmers, vendors, and market analysts.
 
 # Dataset
 •	Source: Kaggle (Vegetable Price & Weather dataset)
