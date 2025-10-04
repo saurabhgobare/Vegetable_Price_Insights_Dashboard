@@ -1,6 +1,6 @@
 # Vegetable Price Insights Dashboard | Vegetable Market Analysis
 
----
+
 
 ### Project Overview
 The **Vegetable Price Insights Dashboard** is an **interactive Power BI project** designed to track, visualize, and analyze **vegetable prices** in relation to **weather patterns** such as temperature and rainfall.
@@ -12,7 +12,7 @@ It helps users:
 
 This dashboard provides **actionable insights** for **farmers, vendors, and market analysts**.
 
----
+
 
 ### Dataset
 - **Source**: **Kaggle (`Vegetable Price & Weather dataset`)**  
@@ -28,7 +28,7 @@ This dashboard provides **actionable insights** for **farmers, vendors, and mark
   - **Handled minor missing values**  
   - **Formatted the `Date` column** for **time-series analysis**
 
----
+
 
 ### Dashboard Components
 - **Price Trend vs Rainfall (Area Chart)** → **Shows how vegetable prices fluctuate with rainfall patterns**  
@@ -42,7 +42,7 @@ This dashboard provides **actionable insights** for **farmers, vendors, and mark
 - **Item Slicer** → **Filter all visuals by specific vegetables dynamically**  
 - **Drill-through: Item Price Analysis** → **Deep-dive for the selected vegetable with monthly price trends**
 
----
+
 
 ### Key Features
 - **Interactive Item Slicer** for dynamic filtering  
@@ -52,7 +52,7 @@ This dashboard provides **actionable insights** for **farmers, vendors, and mark
 - **Drill-through functionality** for detailed item-level price insights  
 - **Clean, intuitive visualizations** for market decision-making
 
----
+
 
 ### Business Insights
 - **Weather Impact** → **High rainfall & extreme temperatures can lead to price spikes**  
@@ -61,7 +61,7 @@ This dashboard provides **actionable insights** for **farmers, vendors, and mark
 - **Correlation Analysis** → **Price vs weather insights help farmers & vendors plan supply**  
 - **Item-wise Drill-through** → **Detailed monthly price fluctuations per vegetable**
 
----
+
 
 ### Potential Enhancements
 - **Add forecasting models** for future vegetable prices  
@@ -70,18 +70,18 @@ This dashboard provides **actionable insights** for **farmers, vendors, and mark
 - **Add interactive tooltips** with insights per vegetable/month  
 - **Enable export of filtered reports** for stakeholders
 
----
+
 
 ### Tools Used
 - **Power BI Desktop** → **Dashboard creation**  
 - **Excel** → **Data storage, cleaning, and preparation**
 
----
+
 
 ### Dashboard Preview
 ![Vegetable Price Insights Dashboard](https://github.com/saurabhgobare/Vegetable_Price_Insights_Dashboard/blob/main/Dashboard/Vegetable%20Price%20Insights%20Dashboard.png)
 
----
+
 
 ### How to Use
 1. **Download / Clone** this repository  
